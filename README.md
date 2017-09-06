@@ -1,4 +1,4 @@
-# *Server Testing Commits*
+# **Server Testing Commits**
 1. Get a Commit
 2. Put a Commit
 3. Post a Commit
@@ -20,7 +20,7 @@
 `POST /localhost:8080/food/`
 
 ### Parameters
-*Name* |	*Type*	|  *Description*
+**Name** |	**Type**	|  **Description**
 --- | --- | ---
 `food` | `string` |  *Required.* The commit message
 
