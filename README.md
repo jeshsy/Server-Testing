@@ -35,7 +35,6 @@
 ### Response
 ```
 Status: 201 Created
-Location: 
 ```
 
 ## Put a Commit
