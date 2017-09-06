@@ -22,7 +22,7 @@
 ### Parameters
 **Name** |	**Type**	|  **Description**
 --- | --- | ---
-`food` | `string` |  *Required.* The commit message
+`food` | `string` |  **Required.** The commit message
 
 ### Example Input
 
