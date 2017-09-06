@@ -6,7 +6,7 @@
 
 
 ## Get a Commit
-`GET /localhost:8080/food/`
+`**GET** /localhost:8080/food/`
 
 ### Response
 `Status: 200 OK`
