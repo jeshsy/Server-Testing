@@ -1,8 +1,8 @@
 # **Server Testing Commits**
-...Get a Commit..
-Put a Commit..
-Post a Commit..
-Delete a Commit..
+* Get a Commit
+* Put a Commit
+* Post a Commit
+* Delete a Commit
 
 
 ## Get a Commit
