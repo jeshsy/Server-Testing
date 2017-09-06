@@ -1,8 +1,8 @@
 # Commits
-Get a Commit
-Put a Commit
-Post a Commit
-Delete a Commit
+1. Get a Commit
+2. Put a Commit
+3. Post a Commit
+4. Delete a Commit
 
 
 ## Get a Commit
